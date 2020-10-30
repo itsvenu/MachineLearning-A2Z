@@ -3,8 +3,6 @@
 
 The purpose of this repo is to keep all my learning/practicing material at one place. This helps me for future reference and also provides a ROADMAP for newbies breaking into the field.
 
-My main objective is to implement ML/DL to biological problems!
-
 ENJOY!
 
 #### Regression

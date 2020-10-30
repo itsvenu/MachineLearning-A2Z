@@ -10,40 +10,40 @@ ENJOY!
 #### Regression
 
 - [x] SimpleLinearRegression
-- [] MultipleLinearRegression
-- [] PolynomialRegression
-- [] SVR
-- [] DecisionTreeRegression
-- [] RandomForestRegression
+- [ ] MultipleLinearRegression
+- [ ] PolynomialRegression
+- [ ] SVR
+- [ ] DecisionTreeRegression
+- [ ] RandomForestRegression
 
 #### Classification
 
-- [] LogisticRegression
-- [] KNN
-- [] SVM
-- [] KernelSVM
-- [] NaiveBayes
-- [] DecisionTreeClassification
-- [] RandomForestClassification
-- [] EnsembleLearning (Boosting)
+- [ ] LogisticRegression
+- [ ] KNN
+- [ ] SVM
+- [ ] KernelSVM
+- [ ] NaiveBayes
+- [ ] DecisionTreeClassification
+- [ ] RandomForestClassification
+- [ ] EnsembleLearning (Boosting)
 
 
 #### Clustering
 
-- [] K-Means
-- [] Hierarchical
-- [] DBSCAN
+- [ ] K-Means
+- [ ] Hierarchical
+- [ ] DBSCAN
 
 #### DimensionalityReduction
 
-- [] PCA
-- [] TSNE
-- [] UMAP
-- [] LDA
+- [ ] PCA
+- [ ] TSNE
+- [ ] UMAP
+- [ ] LDA
 
-#### Deep learning
- 
-- [] ANN
-- [] CNN
-- [] RNN
+#### Deep learning [Tensorflow2 & keras] 
+
+- [ ] ANN
+- [ ] CNN
+- [ ] RNN
 

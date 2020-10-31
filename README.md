@@ -8,7 +8,7 @@ ENJOY!
 #### Regression
 
 - [x] SimpleLinearRegression
-- [ ] MultipleLinearRegression
+- [x] MultipleLinearRegression
 - [ ] PolynomialRegression
 - [ ] SVR
 - [ ] DecisionTreeRegression

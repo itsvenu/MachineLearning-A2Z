@@ -9,7 +9,7 @@ ENJOY!
 
 - [x] SimpleLinearRegression
 - [x] MultipleLinearRegression [Backward elimination/Recursive feature elimination]
-- [ ] PolynomialRegression
+- [x] PolynomialRegression
 - [ ] SVR
 - [ ] DecisionTreeRegression
 - [ ] RandomForestRegression

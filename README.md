@@ -12,7 +12,7 @@ ENJOY!
 - [x] PolynomialRegression
 - [x] SVR [non-linear SVR with Radial Basis Function]
 - [x] DecisionTreeRegression
-- [ ] RandomForestRegression
+- [x] RandomForestRegression
 
 #### Classification
 

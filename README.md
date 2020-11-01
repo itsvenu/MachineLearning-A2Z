@@ -10,7 +10,7 @@ ENJOY!
 - [x] SimpleLinearRegression
 - [x] MultipleLinearRegression [Backward elimination/Recursive feature elimination]
 - [x] PolynomialRegression
-- [ ] SVR
+- [x] SVR [non-linear SVR with Radial Basis Function]
 - [ ] DecisionTreeRegression
 - [ ] RandomForestRegression
 

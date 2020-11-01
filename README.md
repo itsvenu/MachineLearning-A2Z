@@ -11,7 +11,7 @@ ENJOY!
 - [x] MultipleLinearRegression [Backward elimination/Recursive feature elimination]
 - [x] PolynomialRegression
 - [x] SVR [non-linear SVR with Radial Basis Function]
-- [ ] DecisionTreeRegression
+- [x] DecisionTreeRegression
 - [ ] RandomForestRegression
 
 #### Classification

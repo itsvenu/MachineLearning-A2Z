@@ -16,7 +16,7 @@ ENJOY!
 
 #### Classification
 
-- [ ] LogisticRegression
+- [x] LogisticRegression
 - [ ] KNN
 - [ ] SVM
 - [ ] KernelSVM

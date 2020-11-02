@@ -18,7 +18,7 @@ ENJOY!
 
 - [x] LogisticRegression
 - [x] KNN
-- [ ] SVM
+- [x] SVM
 - [ ] KernelSVM
 - [ ] NaiveBayes
 - [ ] DecisionTreeClassification

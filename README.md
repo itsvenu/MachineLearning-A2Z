@@ -21,7 +21,7 @@ ENJOY!
 - [x] SVM
 - [x] KernelSVM
 - [x] NaiveBayes
-- [ ] DecisionTreeClassification
+- [x] DecisionTreeClassification
 - [ ] RandomForestClassification
 - [ ] EnsembleLearning (Boosting)
 

@@ -32,7 +32,7 @@ ENJOY!
 #### Association Rule Learning
 
 - [x] Apriori
-- [ ] Eclat
+- [x] Eclat
 
 #### Reinforcement Leaarning
 

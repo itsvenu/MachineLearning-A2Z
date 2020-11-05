@@ -29,6 +29,16 @@ ENJOY!
 - [x] K-Means
 - [x] Hierarchical
 
+#### Association Rule Learning
+
+- [x] Apriori
+- [ ] Eclat
+
+#### Reinforcement Leaarning
+
+- [ ] UCB
+- [ ] ThompsonSampling
+
 #### DimensionalityReduction
 
 - [ ] PCA

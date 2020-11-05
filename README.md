@@ -27,8 +27,7 @@ ENJOY!
 #### Clustering
 
 - [x] K-Means
-- [ ] Hierarchical
-- [ ] DBSCAN
+- [x] Hierarchical
 
 #### DimensionalityReduction
 

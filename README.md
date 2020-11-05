@@ -36,7 +36,7 @@ ENJOY!
 
 #### Reinforcement Leaarning
 
-- [ ] UCB
+- [x] UCB
 - [ ] ThompsonSampling
 
 #### DimensionalityReduction

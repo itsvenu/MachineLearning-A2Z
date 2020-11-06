@@ -34,10 +34,10 @@ ENJOY!
 - [x] Apriori
 - [x] Eclat
 
-#### Reinforcement Leaarning
+#### Reinforcement Learning
 
 - [x] UCB
-- [ ] ThompsonSampling
+- [x] ThompsonSampling
 
 #### DimensionalityReduction
 

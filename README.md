@@ -39,6 +39,10 @@ ENJOY!
 - [x] UCB
 - [x] ThompsonSampling
 
+#### Natural Language Processing
+
+- [x] BagOfWords - SentimentAnalysis
+
 #### DimensionalityReduction
 
 - [ ] PCA

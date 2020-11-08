@@ -52,7 +52,7 @@ ENJOY!
 
 #### Deep learning [Tensorflow2 & keras] 
 
-- [ ] ANN
+- [x] ANN
 - [ ] CNN
 - [ ] RNN
 

@@ -46,7 +46,7 @@ ENJOY!
 #### DimensionalityReduction
 
 - [x] PCA
-- [ ] LDA
+- [x] LDA
 - [ ] KernelPCA
 
 #### Deep learning [Tensorflow2 & keras] 

@@ -53,5 +53,5 @@ ENJOY!
 #### Deep learning [Tensorflow2 & keras] 
 
 - [x] Artificial Neural Networks/ANN
-- [x] Convolutional Neural Networks/ANN
+- [x] Convolutional Neural Networks/CNN
 

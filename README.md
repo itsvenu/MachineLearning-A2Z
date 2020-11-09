@@ -45,10 +45,9 @@ ENJOY!
 
 #### DimensionalityReduction
 
-- [ ] PCA
-- [ ] TSNE
-- [ ] UMAP
+- [x] PCA
 - [ ] LDA
+- [ ] KernelPCA
 
 #### Deep learning [Tensorflow2 & keras] 
 

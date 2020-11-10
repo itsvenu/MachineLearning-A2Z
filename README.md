@@ -47,7 +47,7 @@ ENJOY!
 
 - [x] PCA
 - [x] LDA
-- [ ] KernelPCA
+- [x] KernelPCA
 
 #### Deep learning [Tensorflow2 & keras] 
 

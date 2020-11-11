@@ -53,4 +53,5 @@ ENJOY!
 
 - [x] Artificial Neural Networks/ANN
 - [x] Convolutional Neural Networks/CNN
+- [x] Recurrent Neural Networks/RNN
 

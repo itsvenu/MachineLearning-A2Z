@@ -49,9 +49,13 @@ ENJOY!
 - [x] LDA
 - [x] KernelPCA
 
-#### Deep learning [Tensorflow2 & keras] 
+#### Deep learning - Supervised [Tensorflow2 & keras] 
 
 - [x] Artificial Neural Networks/ANN
 - [x] Convolutional Neural Networks/CNN
 - [x] Recurrent Neural Networks/RNN
+
+#### Deep learning - Unsupervised
+
+- [x] Self Organizing Maps/SOM
 

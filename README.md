@@ -58,4 +58,4 @@ ENJOY!
 #### Deep learning - Unsupervised
 
 - [x] Self Organizing Maps/SOM
-
+- [ ] Boltzmann Machines (Recommender system)

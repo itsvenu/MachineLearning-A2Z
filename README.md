@@ -59,3 +59,4 @@ ENJOY!
 
 - [x] Self Organizing Maps/SOM
 - [x] Boltzmann Machines (Recommender system)
+- [x] AutoEncoders (Recommender system)
